@@ -1,1 +1,9 @@
-streamlit
+matplotlib>=3.7.0
+Pillow>=10.0.0
+fpdf2>=2.7.0
+plotly>=5.15.0
+fastapi>=0.95.0
+uvicorn>=0.22.0
+passlib>=1.7.4
+python-jose>=3.3.0
+python-multipart>=0.0.6
